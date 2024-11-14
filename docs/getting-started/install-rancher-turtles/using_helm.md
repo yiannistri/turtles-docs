@@ -8,7 +8,7 @@ sidebar_position: 4
 In case you need to review the list of prerequisites (including `cert-manager`), you can refer to [this table](../intro.md#prerequisites).
 :::
 
-If you want to manually apply the Helm chart and be in full control of the installation.
+Follow the steps in this guide, if you want to manually apply the Helm chart and be in full control of the installation.
 
 The Cluster API Operator is required for installing Rancher Turtles and will be installed as dependency of the Rancher Turtles Helm chart.
 

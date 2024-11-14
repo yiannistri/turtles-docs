@@ -43,6 +43,15 @@ This section focuses on implementation details including
 
 In this section we cover additional [operational tasks](./tasks/intro) including basic `CAPIProvider` [installation](./tasks/capi-operator/basic_cluster_api_provider_installation), an [example](./tasks/capi-operator/add_infrastructure_provider) AWS infrastructure provider install using `CAPIProvider`, and [upgrade instructions](./tasks/maintenance/early_adopter_upgrade) for early adopters of Rancher Turtles.
 
+## Developer Guide
+
+This section describes [how to get involved](./developer-guide/contributing_guidelines) in the development of Rancher Turtles as well as [how to setup a local development environment](./developer-guide/development), if you wish to do so.
+
+## Reference
+
+This section has a useful [glossary](./reference/glossary) to help you navigate Rancher and Cluster API concepts.
+
+
 ## Security
 
 Rancher Turtles meets [SLSA Level 3](https://slsa.dev/spec/v1.0/levels#build-l3) requirements as an appropriate hardened build platform, with consistent build processes, and provenance distribution. This section contains more information on security-related topics:

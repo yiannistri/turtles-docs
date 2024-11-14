@@ -152,8 +152,9 @@ const sidebars = {
       collapsed: true,
       items: [
         'developer-guide/intro',
-        'developer-guide/install_capi_operator',
+        'developer-guide/contributing_guidelines',
         'developer-guide/development',
+        'developer-guide/install_capi_operator',
       ],
     },
     {
@@ -162,7 +163,6 @@ const sidebars = {
       collapsed: true,
       items: [
         'reference/intro',
-        'reference/contributing_guidelines',
         'reference/glossary',
       ],
     },
