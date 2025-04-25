@@ -14,12 +14,6 @@ This section describes features and feature stages in {product_name}.
 | disabled
 | alpha
 
-| *Add-on Provider Fleet*
-| `addon-provider-fleet`
-| _None_
-| enabled
-| beta
-
 | *Agent TLS Mode*
 | `agent-tls-mode`
 | _None_
